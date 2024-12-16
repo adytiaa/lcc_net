@@ -1,0 +1,26 @@
+scikit_image
+#  On macOS: Install xcode-select before installing blender-mathutils from git
+#  Run the following commands in the terminal: xcode-select --install
+#                                              xcode-select --reset (if needed)
+git+https://gitlab.com/m1lhaus/blender-mathutils.git
+tqdm==4.19.9
+pandas
+h5py
+matplotlib
+scipy
+pyquaternion
+opencv-python
+# On macOS: No cupy-cuda support
+# cupy_cuda90==6.0.0
+# cupy-cuda110
+pykitti
+numpy
+tensorboardX
+open3d-python==0.7.0.0
+Pillow
+scikit-image
+torch==1.0.1.post2
+torchvision==0.2.2
+sacred==0.7.4
+#  Cuda is required for correlation_package
+-e ./models/correlation_package
