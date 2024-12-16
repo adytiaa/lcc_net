@@ -33,8 +33,6 @@ the configuration parameters can be adjusted in the .yaml file <a hreaf="src/con
 ## visualization using RViz
 - how to use: https://sebastiangrans.github.io/Visualizing-PCD-with-RViz/
 - run `ros2 run rviz2 rviz2` and select PointCloud2 and Image with topics `/HFL_PC` and `/camera/image_raw`\
-<img src="src/ros_v2/sample_bag/rviz2_example.png" width="800">
-- example: visualizing sample_bag.db3 bag file replay
 
 <br>
 <br>
