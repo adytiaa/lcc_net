@@ -1,5 +1,7 @@
 
-# This is adaptation of the paper “LCCNet: Lidar and Camera Self-Calibration Using Cost Volume Network” for High Flash Lidar data. We describe in detail the implementation of an online self-calibration method.t
+# KILIDAR Project
+
+## This is the details of implementation of an online self-calibration method adapted from the paper “LCCNet: Lidar and Camera Self-Calibration Using Cost Volume Network” for High Flash Lidar data.
 
 # Prerequirities
 
