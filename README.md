@@ -1,5 +1,5 @@
 
-# in progress: documentation might be incomplete!
+# This is adaptation of the paper “LCCNet: Lidar and Camera Self-Calibration Using Cost Volume Network” for High Flash Lidar data. We describe in detail the implementation of an online self-calibration method.t
 
 # Prerequirities
 
