@@ -59,11 +59,10 @@ ex.captured_out_filter = apply_backspaces_and_linefeeds
 def config():
     checkpoints = './checkpoints/'
     dataset = 'hfl/cam_lidar' # 'kitti/raw'
-    data_folder = '/home/aditya/HFL_data/newdata/dataset' #dataset/sequences/2021-10-26-13-16-44'
-   # data_folder = '/home/jsberner/large-datasets/KITTI-odometry/'
-   # data_folder = 'home/aditya/HFL_data/'
+    # data_folder = '/home/aditya/dataset'
+    # data_folder = 'home/aditya/HFL_data/'
     use_reflectance = False
-    val_sequence = 0  # 'HFL_CAM_NEUV_2022-07-07-17-08-02' 
+    val_sequence = 0  # 
     epochs = 120
     BASE_LEARNING_RATE = 3e-4  # 1e-4
     loss = 'combined'
