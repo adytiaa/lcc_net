@@ -13,6 +13,9 @@
 # Modified Author: Johannes Berner
 # based on github.com/LvXudong-HIT/LCCNet/blob/main/DatasetLidarCamera.py
 
+# Modified Author: A Seshaditya
+# based on github.com/LvXudong-HIT/LCCNet/blob/main/DatasetLidarCamera.py
+
 import csv
 import os
 from math import radians
