@@ -4,6 +4,7 @@ Jinwei Gu and Zhile Ren
 Modified version (CMRNet) by Daniele Cattaneo
 Modified version (LCCNet) by Xudong Lv
 """
+# Modified Author: A Seshaditya
 
 import torch
 import torchvision
